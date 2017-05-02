@@ -14,6 +14,8 @@
 		E0BC1F511EB210CD00DDF0D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0BC1F4F1EB210CD00DDF0D9 /* LaunchScreen.storyboard */; };
 		E0BC1F5C1EB210CD00DDF0D9 /* NotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BC1F5B1EB210CD00DDF0D9 /* NotificationsTests.swift */; };
 		E0BC1F671EB210CD00DDF0D9 /* NotificationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BC1F661EB210CD00DDF0D9 /* NotificationsUITests.swift */; };
+		E0BC1F751EB2194400DDF0D9 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = E0BC1F741EB2194400DDF0D9 /* image.png */; };
+		E0BC1F771EB21BDC00DDF0D9 /* image.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0BC1F761EB21BDC00DDF0D9 /* image.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		E0BC1F621EB210CD00DDF0D9 /* NotificationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotificationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0BC1F661EB210CD00DDF0D9 /* NotificationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsUITests.swift; sourceTree = "<group>"; };
 		E0BC1F681EB210CD00DDF0D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0BC1F741EB2194400DDF0D9 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		E0BC1F761EB21BDC00DDF0D9 /* image.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				E0BC1F461EB210CD00DDF0D9 /* AppDelegate.swift */,
 				E0BC1F481EB210CD00DDF0D9 /* ViewController.swift */,
 				E0BC1F4A1EB210CD00DDF0D9 /* Main.storyboard */,
+				E0BC1F761EB21BDC00DDF0D9 /* image.gif */,
+				E0BC1F741EB2194400DDF0D9 /* image.png */,
 				E0BC1F4D1EB210CD00DDF0D9 /* Assets.xcassets */,
 				E0BC1F4F1EB210CD00DDF0D9 /* LaunchScreen.storyboard */,
 				E0BC1F521EB210CD00DDF0D9 /* Info.plist */,
@@ -233,7 +239,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0BC1F511EB210CD00DDF0D9 /* LaunchScreen.storyboard in Resources */,
+				E0BC1F751EB2194400DDF0D9 /* image.png in Resources */,
 				E0BC1F4E1EB210CD00DDF0D9 /* Assets.xcassets in Resources */,
+				E0BC1F771EB21BDC00DDF0D9 /* image.gif in Resources */,
 				E0BC1F4C1EB210CD00DDF0D9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
